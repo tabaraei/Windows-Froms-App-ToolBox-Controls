@@ -1,0 +1,9 @@
+c:\users\alita\documents\visual studio 2015\Projects\Controls\Controls\bin\Debug\Controls.exe.config
+c:\users\alita\documents\visual studio 2015\Projects\Controls\Controls\obj\Debug\Controls.csprojResolveAssemblyReference.cache
+c:\users\alita\documents\visual studio 2015\Projects\Controls\Controls\obj\Debug\Controls.Properties.Resources.resources
+c:\users\alita\documents\visual studio 2015\Projects\Controls\Controls\obj\Debug\Controls.csproj.GenerateResource.Cache
+c:\users\alita\documents\visual studio 2015\Projects\Controls\Controls\bin\Debug\Controls.exe
+c:\users\alita\documents\visual studio 2015\Projects\Controls\Controls\bin\Debug\Controls.pdb
+c:\users\alita\documents\visual studio 2015\Projects\Controls\Controls\obj\Debug\Controls.exe
+c:\users\alita\documents\visual studio 2015\Projects\Controls\Controls\obj\Debug\Controls.pdb
+c:\users\alita\documents\visual studio 2015\Projects\Controls\Controls\obj\Debug\Controls.Form1.resources
